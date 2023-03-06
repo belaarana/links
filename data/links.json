@@ -2,36 +2,16 @@
   {
     "type": "instagram",
     "title": "Instagram",
-    "url": "https://instagram.lacrypta.com.ar"
+    "url": "https://www.instagram.com/belaarana/"
   },
   {
-    "type": "discord",
-    "title": "Discord",
-    "url": "https://discord.lacrypta.com.ar"
-  },
-  {
-    "type": "voluntary",
-    "title": "Quiero participar!",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform"
-  },
-  {
-    "type": "github",
-    "title": "Github",
-    "url": "https://github.lacrypta.com.ar"
-  },
-  {
-    "type": "twitter",
-    "title": "Twitter",
-    "url": "https://twitter.lacrypta.com.ar"
-  },
-  {
-    "type": "url",
-    "title": "Sitio Web",
-    "url": "https://www.lacrypta.com.ar/"
+    "type": "instagram",
+    "title": "NB Medicina estética",
+    "url": "https://www.instagram.com/nbmedicinaestetica/"
   },
   {
     "type": "whatsapp",
-    "title": "WhatsApp",
-    "url": "https://api.whatsapp.com/send/?phone=%2B541131080456&text=Hola+como+estan&type=phone_number&app_absent=0"
+    "title": "Saca un turno!",
+    "url": "https://wa.me/message/OS7BHQM2F66BL1"
   }
 ]
